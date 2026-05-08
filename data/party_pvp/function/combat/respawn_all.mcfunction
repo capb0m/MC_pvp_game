@@ -1,0 +1,1 @@
+execute as @a[tag=pp.is_dead] run function party_pvp:combat/respawn_one

@@ -1,0 +1,1 @@
+tag @a[tag=pp.invincible] remove pp.invincible

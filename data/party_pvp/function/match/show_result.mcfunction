@@ -1,0 +1,1 @@
+title @s title [{"text":"あなたの順位","color":"white"},{"score":{"name":"@s",objective:"pp.rank"},"color":"gold"}]
